@@ -1,4 +1,6 @@
-# NgPymesBoost
+# ng_pymes-boost
+
+Organizador y optimizador de PYMES en su logística
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
